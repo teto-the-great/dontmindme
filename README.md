@@ -1,4 +1,4 @@
 # dontmindme
 People looking here, im trying to use this thing called "Vercel", and it uses git stuff.
 
-This project maybe didn't need a license
+This project maybe didn't need an license
